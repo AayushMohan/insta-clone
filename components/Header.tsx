@@ -9,7 +9,7 @@ const Header = () => {
    
    <div>
    
-    <Image src="https://links.papareact.com/owc"/>
+    <Image src="https://links.papareact.com/owc" layout="fill"/>
    
    </div>
    {/* Middle */}
