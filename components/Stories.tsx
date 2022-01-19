@@ -1,5 +1,15 @@
 const Stories = () => {
-  return (<div></div>);
+  return (
+  <div>
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+   {/* Story */}
+  </div>);
 };
 
 export default Stories;
