@@ -3,18 +3,18 @@ import Image from "next/image"
 const Header = () => {
  return (
   <div>
-   <h1>I am a header</h1>
-
+   <div className="flex justify-between">
    {/* Left */}
-   
-   <div>
-   
-    <Image src="https://links.papareact.com/owc" layout="fill"/>
-   
+   <div className="relative h-24 w-24">
+    <Image src="https://links.papareact.com/ocw" layout="fill"/>
    </div>
+
    {/* Middle */}
 
    {/* Right */}
+
+   </div>
+
   </div>
  )
 }
